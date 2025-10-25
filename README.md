@@ -22,7 +22,7 @@ A conversational AI chatbot built with Hugging Face Transformers that includes m
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/DeshantGogia/CLI_Chatbot>
 cd chatbot_cli
 ```
 
